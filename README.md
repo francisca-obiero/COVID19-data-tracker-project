@@ -1,5 +1,3 @@
-# COVID19-data-tracker-project
-
 # COVID-19 Global Data Tracker
 
 ## Project Description
